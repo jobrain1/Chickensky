@@ -42,7 +42,7 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Read Me</a>
+    <a href="https://github.com/jobrain1/Chickensky/blob/main/README">View Read Me</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
